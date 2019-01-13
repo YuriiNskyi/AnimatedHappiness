@@ -10,6 +10,8 @@ Provides `AnimatedHappinessCalculator` - static class, which calculates three ta
 - Unique numbers in both arrays.
 - Unique odd numbers in first array and their quantity in second array.
 - Sum of unique even numbers in first array, which not present in second array.
+
+Complexity of provided methods should be close to _O(n)_.
 ## AnimatedHappiness.Tests
 Simple unit tests of `AnimatedHappinessCalculator`.
 ## AnimatedHappiness.Benchmarks
