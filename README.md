@@ -9,7 +9,7 @@ Main console application, which provides bridge between user and application bel
 Provides `AnimatedHappinessCalculator` - static class, which calculates three tasks:
 - Unique numbers in both arrays.
 - Unique odd numbers in first array and their quantity in second array.
-- Sum of unique even numbers in first array, which not present in second array.
+- Sum of unique even numbers in first array, which is not presented in second array.
 
 Complexity of provided methods should be close to _O(n)_.
 ## AnimatedHappiness.Tests
